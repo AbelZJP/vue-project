@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "swiper": "^4.3.5",
+    "swiper": "^6.5.1",
     "v-distpicker": "^1.0.17",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
